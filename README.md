@@ -1,4 +1,4 @@
-Hello, I'm Kritchanat Malaikwan 
+Hello, I'm Kritchanat Malaikwan 💣💥
 -------------------------------  
 Student at KASETSART UNIVERSITY  
 * 🌍  I'm based in I'm based in Thailand
