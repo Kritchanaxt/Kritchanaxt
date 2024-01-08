@@ -1,7 +1,7 @@
 Hello, My name is Kritchanat 💣💥
 -------------------------------  
 Student at KASETSART UNIVERSITY  
-* 🌍  I'm based in I'm based in Thailand
+* 🌍  I'm based in Thailand
 * ✉️  You can contact me at kritchanatweve@gmail.com
 * 🧠  I'm learning Full-Stack Developer, Have a passion for learning Programming, UI/UX design and also interested in learning about. Network systems and Safety system.
 
