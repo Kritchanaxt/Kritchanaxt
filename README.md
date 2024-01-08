@@ -14,7 +14,3 @@ Student at KASETSART UNIVERSITY
 
 <a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-stats.vercel.app/api?username=Kritchanaxt&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&show_icons=true" alt="Kritchanaxt's GitHub stats" /></a>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-stats.vercel.app/api?username=Kritchanaxt&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&show_icons=true" alt="Kritchanaxt's GitHub stats" /></a>
-
