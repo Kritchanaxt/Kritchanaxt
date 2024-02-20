@@ -1,5 +1,8 @@
-<h1 alogn="left"> Aloha, I'm Kritchanat!</h1>![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-<h2 align="left"> Student at KASETSART UNIVERSITY </h2>
+Aloha, I'm Kritchanat! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+--------------------------------- 
+Student at KASETSART UNIVERSITY
+--------------------------------- 
+
 <h2 align="left">💫 About Me :</h2>
 
 ### Skills  
