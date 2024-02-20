@@ -1,9 +1,6 @@
 
-<h1 align="center">Aloha, I'm Kritchanat! 👋</h1>
-
-Student at KASETSART UNIVERSITY   
----------------------------------  
-
+<h1 align="left">Aloha, I'm Kritchanat! 👋</h1>
+<h2 align="left">💫 Student at KASETSART UNIVERSITY </h2>
 <h3 align="left">💫 About Me :</h3>
 
 <h3 align="left">Connect with me:</h3>
