@@ -35,6 +35,6 @@
 </p>
 <h1></h1>
 <p align="center">
-<a>Thank you <i class="fa-solid fa-heart"></i> for visiting my github.<a>
+<a>Thank you 💖 for visiting my github.<a>
 
 
