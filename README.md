@@ -35,6 +35,5 @@
 
 <h1></h1>
 
-<p align="center">
-<h2>Show some ❤️ by starring some of my repositories!</h2>
-</p>
+## Show some ❤️ by starring some of my repositories!
+
