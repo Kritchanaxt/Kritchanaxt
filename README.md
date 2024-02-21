@@ -25,3 +25,6 @@
 <p align="center">
 <a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kritchanaxt&stroke=ec4899&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ec4899&currStreakLabel=ef4444&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
 </p>
+
+<a href="https://instagram.com/https://www.instagram.com/kritchanaxt._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kritchanaxt._/" height="30" width="40" /></a>
+</p>
