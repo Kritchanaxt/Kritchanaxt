@@ -25,7 +25,7 @@
 <p align="center">
 <a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kritchanaxt&stroke=ec4899&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ec4899&currStreakLabel=ef4444&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
 </p>
-<h1></h1>
+
 
 🌍 Socials
 ----------------------------
