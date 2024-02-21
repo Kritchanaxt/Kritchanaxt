@@ -1,4 +1,4 @@
-<h1>Aloha!, My name is Kritchanat👋🏻 </h1>
+<h1>Aloha! 👋🏻 , My name is Kritchanat</h1>
 
 💫 About me
 ----------------------------
