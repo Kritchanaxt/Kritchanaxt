@@ -35,6 +35,6 @@
 </p>
 <h1></h1>
 <p align="center">
-<a>Show some ❤️ by starring some of my repositories!<a>
+<a>Thank you <i class="fa-solid fa-heart"></i> for visiting my github.<a>
 
 
