@@ -1,6 +1,7 @@
 <h1>Aloha, My name is Kritchanat!?</h1>
 
 <h2>💫 About me:</h2>
+----------------------------
 * 🌍 I'm based in Thailand.
 * 🫠 I’m looking for help with Exploring New Technologies.
 * 🔭 I’m currently learning more about iOS Deverloper
