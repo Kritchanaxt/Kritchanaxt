@@ -19,11 +19,11 @@
 ----------------------------
  
 <p align="center">
-<a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-stats.vercel.app/api?username=Kritchanaxt&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ec4899&icon_color=6366f1&bg_color=0f172a&hide_border=true&show_icons=true" alt="Kritchanaxt's GitHub stats" /></a>
+<a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-stats.vercel.app/api?username=Kritchanaxt&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=14b8a6&icon_color=6366f1&bg_color=0f172a&hide_border=true&show_icons=true" alt="Kritchanaxt's GitHub stats" /></a>
 </p>
 <h1></h1>
 <p align="center">
-<a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kritchanaxt&stroke=ec4899&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ec4899&currStreakLabel=ef4444&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
+<a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kritchanaxt&stroke=14b8a6&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=14b8a6&currStreakLabel=ef4444&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 </p>
 
 
