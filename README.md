@@ -2,7 +2,7 @@
 
 💫 About me
 ----------------------------
-* 🌍 I'm based in Thailand.
+* 🇹🇭 I'm based in Thailand.
 * 🫠 I’m looking for help with Exploring New Technologies.
 * 🔭 I’m currently learning more about iOS Deverloper
 * ✉️ You can contact me at kritchanatweve@gmail.com
@@ -25,8 +25,9 @@
 <p align="center">
 <a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kritchanaxt&stroke=ec4899&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ec4899&currStreakLabel=ef4444&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
 </p>
+<h1></h1>
 
-🗺️ Socials
+🌍 Socials
 ----------------------------
 <p align="center">
 <a href="https://kaggle.com/https://www.kaggle.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com" height="40" width="40" /></a>
