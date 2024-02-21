@@ -34,6 +34,6 @@
 </p>
 <h1></h1>
 
- <p align="center"><h2>Show some ❤️ by starring some of my repositories!</h2></p>
+ <a align="center"><h2 align="center">Show some ❤️ by starring some of my repositories!</h2></a>
 
 
