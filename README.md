@@ -26,5 +26,10 @@
 <a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kritchanaxt&stroke=ec4899&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ec4899&currStreakLabel=ef4444&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
 </p>
 
+📌 Socials
+----------------------------
+<p align="center">
+<a href="https://www.github.com/Kritchanaxt" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+<a href="https://kaggle.com/https://www.kaggle.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/kritchanaxt._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kritchanaxt._/" height="30" width="40" /></a>
 </p>
