@@ -25,13 +25,17 @@
 <p align="center">
 <a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kritchanaxt&stroke=14b8a6&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=14b8a6&currStreakLabel=ef4444&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 </p>
-
+<h1></h1>
+<p align="center">
+<a href="https://github.com/Kritchanaxt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritchanaxt&langs_count=10&title_color=ef4444&text_color=14b8a6&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
 
 🌍 Socials
 ----------------------------
 <p align="left">
 <a href="https://kaggle.com/https://www.kaggle.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com" height="40" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/kritchanaxt._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kritchanaxt._/" height="40" width="40" /></a>
+
 </p>
 <h1></h1>
 <p align="center">
