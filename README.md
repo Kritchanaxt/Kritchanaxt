@@ -5,7 +5,7 @@
 * 🧑🏻‍🎓 Student at KASETSART UNIVERSITY.
 * 🇹🇭 I'm based in Thailand.
 * 🫠 I’m looking for help with Exploring New Technologies.
-* 🔭 I’m currently learning more about iOS Deverloper
+* 🔭 I’m currently learning more about iOS Deverloper.
 * ✉️ You can contact me at kritchanat.m@ku.th
 * 🏀 Fun fact: My favorite sport is basketball.
 
