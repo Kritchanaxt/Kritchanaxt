@@ -43,5 +43,5 @@
 <p align="center">
 <a>Thank you 💖 for visiting my github.<a>
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak]([https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats](https://github.com/Kritchanaxt))
 
