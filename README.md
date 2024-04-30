@@ -22,15 +22,15 @@
 ----------------------------
  
 <p align="center">
-<a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-stats.vercel.app/api?username=Kritchanaxt&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=14b8a6&icon_color=6366f1&bg_color=0f172a&hide_border=true&show_icons=true" alt="Kritchanaxt's GitHub stats" /></a>
+<a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-stats.vercel.app/api?username=Kritchanaxt&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=f97316&icon_color=ef4444&bg_color=181824&hide_border=true&show_icons=true" alt="Kritchanaxt's GitHub stats" /></a>
 </p>
 <h1></h1>
 <p align="center">
-<a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kritchanaxt&stroke=14b8a6&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=14b8a6&currStreakLabel=ef4444&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+<a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kritchanaxt&stroke=f97316&background=181824&ring=facc15&fire=facc15&currStreakNum=f97316&currStreakLabel=facc15&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 </p>
 <h1></h1>
 <p align="center">
- <a href="https://github.com/Kritchanaxt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritchanaxt&langs_count=10&title_color=ef4444&text_color=14b8a6&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Kritchanaxt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritchanaxt&langs_count=10&title_color=facc15&text_color=f97316&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
 🌍 Socials
