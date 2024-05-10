@@ -26,10 +26,6 @@
 </p>
 <h1></h1>
 <p align="center">
-<a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kritchanaxt&stroke=ffffff&background=181824&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p>
-<h1></h1>
-<p align="center">
 <a href="https://github.com/Kritchanaxt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritchanaxt&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
