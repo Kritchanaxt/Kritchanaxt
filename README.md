@@ -9,8 +9,6 @@
 * ✉️ You can contact me at kritchanat.m@ku.th
 * 🏀 Fun fact: My favorite sport is basketball.
 
-<a href="https://www.github.com/Kritchanaxt" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Kritchanaxt?logo=github&style=for-the-badge&color=6366f1&labelColor=0f172a" /></a>
-
  🧬 My Skills
 ----------------------------
 
