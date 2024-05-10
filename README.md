@@ -24,7 +24,7 @@
 <p align="center">
 <a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-stats.vercel.app/api?username=Kritchanaxt&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&show_icons=true" alt="Kritchanaxt's GitHub stats" /></a>
  
-<a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-stats.vercel.app/api?username=Kritchanaxt&count_private=true&show_icons=true&title_color=a855f7&text_color=ffffff&icon_color=ef4444&bg_color=181824" alt="Kritchanaxt's GitHub stats"/></a>
+<a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-stats.vercel.app/api?username=Kritchanaxt&count_private=true&show_icons=true&title_color=a855f7&text_color=ffffff&icon_color=6E7CF1&bg_color=181824" alt="Kritchanaxt's GitHub stats"/></a>
 
 </p>
 <h1></h1>
