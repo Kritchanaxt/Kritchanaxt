@@ -27,7 +27,7 @@
 </p>
 <h1></h1>
 <p align="center">
-  <a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImKunYoung&layout=compact&langs_count=10"/></a>&nbsp
+  <a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritchanaxt&layout=compact&langs_count=10&count_private=true&show_icons=true&title_color=a855f7&text_color=ffffff&icon_color=6E7CF1&bg_color=181824""/></a>&nbsp
 </p>
 </p>
 
