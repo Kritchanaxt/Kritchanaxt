@@ -1,10 +1,10 @@
-<h1>Aloha! 👋🏻, My name is Kritchanat Malaikwan</h1>
+<h1>Aloha! 👋🏻, I'm Waffle 🧇 </h1>
 
 💫 About me
 ----------------------------
+* 🫠 My name is Kritchanat Malaikwan
 * 🧑🏻‍🎓 Student at KASETSART UNIVERSITY.
-* 🇹🇭 I'm based in Thailand.
-* 🫠 I’m looking for help with Exploring New Technologies.
+* 🔮 I’m looking for help with Exploring New Technologies.
 * 🎧 I’m currently learning more about iOS Deverloper.
 * ✉️ You can contact me at kritchanat.m@ku.th
 * 🏀 Fun fact: My favorite sport is basketball.
