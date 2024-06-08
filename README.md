@@ -1,15 +1,14 @@
 <h1>Aloha! 👋🏻, I'm Waffle 🧇 </h1>
 
-💫 About me
+🧬 About me
 ----------------------------
 * 🫠 My name is Kritchanat Malaikwan
 * 🧑🏻‍🎓 Student at Kasetsart University.
-* 🔮 I’m looking for help with Exploring New Technologies.
+* 📡 I’m looking for help with Exploring New Technologies.
 * 🎧 I’m currently learning more about iOS Deverloper.
-* ✉️ You can contact me at kritchanat.m@ku.th
 * 🏀 Fun fact: My favorite sport is basketball.
 
- 🧬 My Skills
+💫 My Skills
 ----------------------------
 
 <p align="left">
