@@ -3,7 +3,7 @@
 💫 About me
 ----------------------------
 * 🫠 My name is Kritchanat Malaikwan
-* 🧑🏻‍🎓 Student at KASETSART UNIVERSITY.
+* 🧑🏻‍🎓 Student at Kasetsart University.
 * 🔮 I’m looking for help with Exploring New Technologies.
 * 🎧 I’m currently learning more about iOS Deverloper.
 * ✉️ You can contact me at kritchanat.m@ku.th
