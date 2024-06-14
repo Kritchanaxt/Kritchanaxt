@@ -27,12 +27,6 @@
 </p>
 </p>
 
-🌍 Socials
-----------------------------
-<p align="left">
-   <a href="https://www.linkedin.com/in/kritchanat-malaikwan-153374284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" "/></a> <a href="https://www.facebook.com/wave.kritchanat?_rdc=1&_rdr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /</a> <a href="http://www.instagram.com/kritchanaxt._/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.threads.net/@kritchanaxt._" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /></a>
-</p>
-
 <h1></h1>
 <p align="center">
 <a>Thank you 💖 for visiting my github.<a>
