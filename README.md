@@ -1,4 +1,4 @@
-<h1>Hello! 👋🏻, I'm Kritchanat Malaikwan</h1>
+<h1>Hello! 👋🏻, I'm Kritchanat Malaikwan 🫠</h1> 
 
 🧬 About me
 ----------------------------
