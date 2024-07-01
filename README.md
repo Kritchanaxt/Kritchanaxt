@@ -1,8 +1,7 @@
-<h1>Hello! 👋🏻, I'm Waffle 🧇 </h1>
+<h1>Hello! 👋🏻, I'm Kritchanat Malaikwan</h1>
 
 🧬 About me
 ----------------------------
-* 🫠 My name is Kritchanat Malaikwan
 * 🧑🏻‍🎓 Student at Kasetsart University.
 * 📡 I’m looking for help with Exploring New Technologies.
 * 🎧 I’m currently learning more about iOS Deverloper.
