@@ -1,4 +1,4 @@
-<h1>Hello!, I'm Kritchanat</h1> 
+<h1>Hello, I'm Kritchanat</h1> 
 
 🧬 About me
 ----------------------------
