@@ -11,6 +11,8 @@
 
 * 🏀 Fun fact: My favorite sport is basketball.
 
+* https://www.buymeacoffee.com/WaffleK
+
 💫 My Skills
 ----------------------------
 
