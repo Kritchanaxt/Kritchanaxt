@@ -2,7 +2,7 @@
 
 ⭐️ About me
 ----------------------------
-<img src="https://i.pinimg.com/originals/e7/88/6a/e7886adaf0321d9cc30640097a643836.gif" width="400" height="400" alt="gif" />
+<img src="https://i.pinimg.com/originals/e7/88/6a/e7886adaf0321d9cc30640097a643836.gif" width="400" height="800" alt="gif" />
 
 * 🎧 I’m currently learning more about iOS Deverloper.
 
