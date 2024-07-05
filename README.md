@@ -1,6 +1,6 @@
 <h1 align="center">Hello!, I'm Kritchanat (Waffle)</h1> 
 
-<p align="center"><img src="https://i.pinimg.com/originals/e7/88/6a/e7886adaf0321d9cc30640097a643836.gif" width="450" height="350" alt="gif"/></p>
+<p align="center"><img src="https://i.pinimg.com/originals/e7/88/6a/e7886adaf0321d9cc30640097a643836.gif" width="450" height="300" alt="gif"/></p>
 
 <p align="center">    𝙞𝙨𝙣'𝙩 𝙟𝙪𝙨𝙩 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜, 𝙞𝙩'𝙨 𝙖 𝙩𝙝𝙧𝙞𝙡𝙡𝙞𝙣𝙜  𝙝𝙪𝙣𝙩 𝙛𝙤𝙧 𝙨𝙤𝙡𝙪𝙩𝙞𝙤𝙣𝙨, 𝙖𝙣𝙙 𝙄'𝙢 𝙙𝙚𝙩𝙚𝙧𝙢𝙞𝙣𝙚𝙙 𝙩𝙤.  </p>
 
