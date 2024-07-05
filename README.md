@@ -1,10 +1,14 @@
-<h1 align="center">Hello, I'm Kritchanat</h1> 
+<h1 align="center">Hello 👋🏻, I'm Kritchanat</h1> 
 
 🧬 About me
 ----------------------------
-* 🧑🏻‍🎓 Student at Kasetsart University.
-* 📡 I’m looking for help with Exploring New Technologies.
+  
 * 🎧 I’m currently learning more about iOS Deverloper.
+
+* 🚀 I’m looking for help with Exploring New Technologies.
+
+* ✉️  You can contact me at kritchanat.ios@gmail.com
+
 * 🏀 Fun fact: My favorite sport is basketball.
 
 💫 My Skills
