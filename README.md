@@ -2,7 +2,8 @@
 
 ⭐️ About me
 ----------------------------
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftatibana.com.br%2F%3Fm%3Dartstation-elden-ring-pixel-art-dd-8PPAbKTb&psig=AOvVaw2eFTTozwgu8BpuqGZHficw&ust=1720270454286000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCA9f74j4cDFQAAAAAdAAAAABAh" width="40" height="40" alt="Swift" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
 
 * 🎧 I’m currently learning more about iOS Deverloper.
 
