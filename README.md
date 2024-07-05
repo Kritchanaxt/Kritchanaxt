@@ -14,6 +14,15 @@
 
 * https://www.buymeacoffee.com/WaffleK
 
+
+
+
+
+
+
+
+
+
 💫 My Skills
 ----------------------------
 
