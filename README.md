@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋🏻, I'm Kritchanat (Waffle)</h1> 
+<h1 align="center">Hello!, I'm Kritchanat (Waffle)</h1> 
 
 <p align="center"><img src="https://i.pinimg.com/originals/e7/88/6a/e7886adaf0321d9cc30640097a643836.gif" width="450" height="300" alt="gif"/></p>
 
