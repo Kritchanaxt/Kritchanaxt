@@ -2,7 +2,8 @@
 
 ⭐️ About me
 ----------------------------
-  
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://cdna.artstation.com/p/assets/images/images/063/357/982/original/bryan-heemskerk-eldenringfinal.gif?1685365876" width="40" height="40" alt="Swift" />
+
 * 🎧 I’m currently learning more about iOS Deverloper.
 
 * 🚀 I’m looking for help with Exploring New Technologies.
