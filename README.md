@@ -2,7 +2,7 @@
 
 ⭐️ About me
 ----------------------------
-<img src="https://pin.it/5Y1DTy9sl" width="400" height="400" align="left"/>
+<img src="https://imagegif-8bfbc.web.app" width="400" height="400" align="left"/>
 
 
 * 🎧 I’m currently learning more about iOS Deverloper.
