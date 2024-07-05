@@ -13,7 +13,15 @@
 
 * https://www.buymeacoffee.com/WaffleK
 
+<p></p><p></p>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+
 
 ⭐️ My Skills
 ----------------------------
@@ -32,6 +40,6 @@
 <h1></h1>
 <p align="center">
 <a>Thank you 💖 for visiting my github.<a>
-
+</p>
 
 
