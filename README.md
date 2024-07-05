@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋🏻, I'm Kritchanat</h1> 
 
-🧬 About me
+⭐️ About me
 ----------------------------
   
 * 🎧 I’m currently learning more about iOS Deverloper.
