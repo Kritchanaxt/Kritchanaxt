@@ -14,14 +14,11 @@
 
 * https://www.buymeacoffee.com/WaffleK
 
-
-
-
-
-
-
-
-
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
 
 💫 My Skills
 ----------------------------
