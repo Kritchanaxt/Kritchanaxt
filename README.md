@@ -2,7 +2,7 @@
 
 ⭐️ About me
 ----------------------------
-<img src="https://br.pinterest.com/pin/66568900735272502/" width="40" height="40" />
+<img src="https://media.tenor.com/BGxADZTlznwAAAAM/elden-ring.gif" width="40" height="40" />
 
 
 * 🎧 I’m currently learning more about iOS Deverloper.
