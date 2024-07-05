@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋🏻, I'm Kritchanat</h1> 
 
 
-<img src="https://i.pinimg.com/originals/e7/88/6a/e7886adaf0321d9cc30640097a643836.gif" width="550" height="400" alt="gif" align="center"/>
+<p align="center"><img src="https://i.pinimg.com/originals/e7/88/6a/e7886adaf0321d9cc30640097a643836.gif" width="550" height="400" alt="gif"/></p>
 
 🔭 About me
 ----------------------------
