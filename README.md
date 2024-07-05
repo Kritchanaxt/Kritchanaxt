@@ -32,9 +32,6 @@ My GitHub Stats 💫
   <a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritchanaxt&layout=compact&langs_count=10&count_private=true&show_icons=true&title_color=D4CFC9&text_color=D4CFC9&bg_color=181824""/></a>
 </p>
 
-<h1></h1>
-<p align="center">
-<a>𝙏𝙝𝙖𝙣𝙠 𝙮𝙤𝙪 𝙛𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜 𝙢𝙮 𝙜𝙞𝙩𝙝𝙪𝙗.🫰🏻<a>
-</p>
+<p align="center"><a>𝙏𝙝𝙖𝙣𝙠 𝙮𝙤𝙪 𝙛𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜 𝙢𝙮 𝙜𝙞𝙩𝙝𝙪𝙗.🫰🏻<a></p>
 
 
