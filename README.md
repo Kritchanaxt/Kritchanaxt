@@ -2,8 +2,8 @@
 
 ⭐️ About me
 ----------------------------
-<img src="https://imagegif-8bfbc.web.app" width="400" height="400" align="left"/>
 https://imagegif-8bfbc.web.app
+<img src="https://imagegif-8bfbc.web.app" width="40" height="40" />
 
 
 * 🎧 I’m currently learning more about iOS Deverloper.
