@@ -1,6 +1,7 @@
 <h1 align="center">Hello!, I'm Kritchanat (Waffle)</h1> 
 
 <p align="center"><img src="https://v1.pinimg.com/videos/mc/hls/4e/79/ed/4e79ed8b09f2bab88df29cd4b68bb1b4.m3u8" width="450" height="250" alt="gif"/></p>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=39054721766542871" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
 
 <p align="center">    𝙞𝙨𝙣'𝙩 𝙟𝙪𝙨𝙩 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜, 𝙞𝙩'𝙨 𝙖 𝙩𝙝𝙧𝙞𝙡𝙡𝙞𝙣𝙜  𝙝𝙪𝙣𝙩 𝙛𝙤𝙧 𝙨𝙤𝙡𝙪𝙩𝙞𝙤𝙣𝙨, 𝙖𝙣𝙙 𝙄'𝙢 𝙙𝙚𝙩𝙚𝙧𝙢𝙞𝙣𝙚𝙙 𝙩𝙤.  </p>
 
