@@ -3,7 +3,7 @@
 <p align="center"><img src="https://media.tenor.com/MGjWenJavXsAAAAM/jolyne-jojo.gif" width="450" height="250" alt="gif"/></p>
 
 
-<p align="center">    𝙞𝙨𝙣'𝙩 𝙟𝙪𝙨𝙩 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜, 𝙞𝙩'𝙨 𝙖 𝙩𝙝𝙧𝙞𝙡𝙡𝙞𝙣𝙜  𝙝𝙪𝙣𝙩 𝙛𝙤𝙧 𝙨𝙤𝙡𝙪𝙩𝙞𝙤𝙣𝙨, 𝙖𝙣𝙙 𝙄'𝙢 𝙙𝙚𝙩𝙚𝙧𝙢𝙞𝙣𝙚𝙙 𝙩𝙤.  </p>
+<p align="center">   𝘾𝙤𝙪𝙡𝙙𝙣'𝙩 𝙗𝙚 𝘽𝙚𝙩𝙩𝙚𝙧.  </p>
 
 🔭 About me
 ----------------------------
