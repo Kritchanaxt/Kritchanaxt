@@ -1,4 +1,4 @@
-<h1 align="center">Hello!, I'm Kritchanat (Waffle)</h1> 
+<h1 align="center">Hello!, I'm Kritchanat </h1> 
 
 <p align="center"><img src="https://media.tenor.com/MGjWenJavXsAAAAM/jolyne-jojo.gif" width="450" height="250" alt="gif"/></p>
 
