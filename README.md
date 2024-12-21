@@ -1,4 +1,4 @@
-<h1 align="center">Hello!, I'm Kritchanat </h1> 
+<h1 align="center">Hello!, [ I'm Kritchanat ]</h1> 
 
 <p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWs5N3o4MDRtOWNiZzczMzg4Ym43eHFiN3NrY3NhcDh3M3N4NjAyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MrL5W02AMLB1CkRLjd/giphy.gif" width="450" height="250" alt="gif"/></p>
 
@@ -8,9 +8,7 @@
 🔭 About me
 ----------------------------
 
-* 🧪 Fonte
-
-* 💌 𝙔𝙤𝙪 𝙘𝙖𝙣 𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 𝙖𝙩 𝙠𝙧𝙞𝙩𝙘𝙝𝙖𝙣𝙖𝙩.𝙞𝙤𝙨@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢
+* 🧪 𝙁𝙤𝙣𝙩𝙚𝙣𝙙 / 𝘽𝙖𝙘𝙠𝙚𝙣𝙙 / 𝙐𝙓-𝙐𝙄 / 𝙈𝙤𝙗𝙞𝙡𝙚 𝘿𝙚𝙫
 
 * 🎧 𝙄’𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙢𝙤𝙧𝙚 𝙖𝙗𝙤𝙪𝙩 𝙞𝙊𝙎 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧       
  
