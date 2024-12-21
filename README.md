@@ -1,6 +1,6 @@
 <h1 align="center">Hello!, I'm Kritchanat </h1> 
 
-<p align="center"><img src="https://media.tenor.com/MGjWenJavXsAAAAM/jolyne-jojo.gif" width="450" height="250" alt="gif"/></p>
+<p align="center"><img src="https://giphy.com/gifs/leagueoflegends-tft-pengu-battle-of-golden-spatula-MrL5W02AMLB1CkRLjd" width="450" height="250" alt="gif"/></p>
 
 
 <p align="center">   𝘾𝙤𝙪𝙡𝙙𝙣'𝙩 𝙗𝙚 𝘽𝙚𝙩𝙩𝙚𝙧.  </p>
