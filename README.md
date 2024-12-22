@@ -5,9 +5,7 @@
 
 <p align="center">   𝘾𝙤𝙪𝙡𝙙𝙣'𝙩 𝙗𝙚 𝘽𝙚𝙩𝙩𝙚𝙧.  </p>
 
-![](https://github.com/Kritchanaxtghpvc/?username=Kritchanaxtghpvc&color=green)
-
-ต้นฉบับ ![](https://komarev.com/ghpvc/?username=Kritchanaxtghpvc&color=green)
+![](https://komarev.com/ghpvc/?username=Kritchanaxtghpvc&color=blueviolet)
 
 
 
