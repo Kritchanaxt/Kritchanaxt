@@ -5,7 +5,7 @@
 
 <p align="center">   𝘾𝙤𝙪𝙡𝙙𝙣'𝙩 𝙗𝙚 𝘽𝙚𝙩𝙩𝙚𝙧.  </p>
 
-![](https://komarev.com/ghpvc/?https://github.com/Kritchanaxt/Kritchanaxt/blob/main/README.md&color=green)
+![](https://komarev.com/ghpvc/?https://github.com/Kritchanaxt&color=green)
 
 🔭 About me
 ----------------------------
