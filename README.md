@@ -9,7 +9,7 @@
 
 
 
-🔭 About me
+🌠 About me
 ----------------------------
 
 * 🧪 𝙁𝙤𝙣𝙩𝙚𝙣𝙙 / 𝘽𝙖𝙘𝙠𝙚𝙣𝙙 / 𝙐𝙓-𝙐𝙄 / 𝙈𝙤𝙗𝙞𝙡𝙚 𝘿𝙚𝙫
@@ -20,7 +20,7 @@
  
 
 
-⭐️ My Skills
+🩻 My Skills
 ----------------------------
 
 <p align="left">
@@ -29,7 +29,7 @@
  
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c"  width="45" height="45" alt="C"/></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" /></a> <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJS" /></a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb"  width="45" height="45" alt="MongoDB"/></a> <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql"  width="45" height="45" alt="MySQL"/></a><a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman"  width="45" height="45" alt="Postman"/></a>
  
-💫 My GitHub Stats 
+🌌 My GitHub Stats 
 ----------------------------
 
 <p align="center">
