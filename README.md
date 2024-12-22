@@ -5,7 +5,7 @@
 
 <p align="center">   𝘾𝙤𝙪𝙡𝙙𝙣'𝙩 𝙗𝙚 𝘽𝙚𝙩𝙩𝙚𝙧.  </p>
 
-![](https://github.com/Kritchanaxt&color=green)
+![](https://github.com/Kritchanaxtghpvc/?username=your-github-username&color=green)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
