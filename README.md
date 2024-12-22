@@ -7,6 +7,9 @@
 
 ![](https://github.com/Kritchanaxtghpvc/?username=Kritchanaxtghpvc&color=green)
 
+ต้นฉบับ ![](https://komarev.com/ghpvc/?username=Kritchanaxtghpvc&color=green)
+
+
 
 🔭 About me
 ----------------------------
