@@ -33,8 +33,11 @@
 ----------------------------
 
 <p align="center">
-  <a href="http://www.github.com/Kritchanaxt"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritchanaxt&layout=compact&langs_count=10&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=181824""/></a>
+  <a href="https://github.com/Kritchanaxt">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritchanaxt&layout=compact&langs_count=10&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=181824" alt="Top Langs"/>
+  </a>
 </p>
+
 
 <h1></h1>
 <p align="center"><a>𝙏𝙝𝙖𝙣𝙠 𝙮𝙤𝙪 𝙛𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜 𝙢𝙮 𝙜𝙞𝙩𝙝𝙪𝙗. 💜 <a></p>
