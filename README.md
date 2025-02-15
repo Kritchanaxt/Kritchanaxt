@@ -23,7 +23,7 @@
 🩻 My Skills
 ----------------------------
 
-### Programming Languages:
+### 🔩 Programming Languages
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=swift" width="47" height="47" alt="Swift" /></a> 
 <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart" width="47" height="47" alt="Dart" /></a> 
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" width="47" height="47" alt="Java" /></a> 
@@ -34,7 +34,7 @@
 
 
 
-### Frameworks:
+### 🧰 Frameworks
 <a href="https://developer.apple.com/swiftui/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="50" height="50" alt="SwiftUI" /></a> 
 <a href="https://developer.apple.com/documentation/xctest/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/swift-testing/swift-testing-96x96_2x.png" width="50" height="50" alt="XCTest" /></a> 
 <a href="https://developer.apple.com/documentation/coredata" target="_blank" rel="noreferrer"><img src="https://velog.velcdn.com/images/qnm83/post/92952fa1-24b5-4c85-b4a1-bd5d0ef015db/image.png" width="45" height="50" alt="Core Data" /></a> 
@@ -46,11 +46,11 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=expressjs" width="45" height="45" alt="ExpressJS" /></a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" /></a> </p>
 
-### Databases:
+### 🗄️ Databases
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" /></a> 
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" /></a> 
 
-### Tools:
+### 🛠️ Tools
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" /></a>
 <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" /></a> <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" /></a> 
  
