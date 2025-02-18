@@ -31,8 +31,7 @@
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" /></a> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" /></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" /></a>  
-
-
+<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" /></a> 
 
 ### ⚙️ 𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨
 <a href="https://developer.apple.com/swiftui/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="50" height="50" alt="SwiftUI" /></a> 
@@ -44,7 +43,8 @@
 <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" /></a> 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJS" /></a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=expressjs" width="45" height="45" alt="ExpressJS" /></a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" /></a> </p>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" /></a> 
+<a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" /></a> 
 
 ### 🗄️ 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚𝙨
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" /></a> 
@@ -52,8 +52,11 @@
 
 ### 🛠️ 𝙏𝙤𝙤𝙡𝙨
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" /></a>
-<a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" /></a> <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" /></a> 
- 
+<a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" /></a> 
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" /></a> 
+
+
+
 🌌 My GitHub Stats 
 ----------------------------
 
