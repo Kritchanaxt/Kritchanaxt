@@ -26,8 +26,8 @@
 ### 🔩 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=swift" width="47" height="47" alt="Swift" /></a> 
 <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart" width="47" height="47" alt="Dart" /></a> 
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" width="47" height="47" alt="Java" /></a> 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kotlin" width="47" height="47" alt="Kotlin" /></a> 
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" width="47" height="47" alt="Java" /></a> 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" /></a> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" /></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" /></a> 
