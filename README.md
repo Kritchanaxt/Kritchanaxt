@@ -44,6 +44,8 @@
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJS" /></a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=expressjs" width="45" height="45" alt="ExpressJS" /></a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" /></a> 
+<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /></a> 
+
 
 ### 🗄️ 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚𝙨
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" /></a> 
