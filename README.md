@@ -40,12 +40,12 @@
 <a href="https://developer.apple.com/documentation/coredata" target="_blank" rel="noreferrer"><img src="https://velog.velcdn.com/images/qnm83/post/92952fa1-24b5-4c85-b4a1-bd5d0ef015db/image.png" width="45" height="50" alt="Core Data" /></a> 
 <a href="https://developer.apple.com/documentation/authenticationservices/asauthorizationproviderextensionauthorizationrequest/realm" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/7575099?s=280&v=4" width="50" height="50" alt="Realm" /></a> 
 <a href="https://swiftpackageindex.com/Alamofire/Alamofire" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/7774181?s=280&v=4" width="50" height="50" alt="Alamofire" /></a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" /></a> 
+<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /></a> 
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="tailwind" /></a> 
 <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" /></a> 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJS" /></a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=expressjs" width="45" height="45" alt="ExpressJS" /></a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" /></a> 
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="tailwind" /></a> 
-<a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /></a> 
 
 
 ### 🗄️ 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚𝙨
@@ -56,7 +56,9 @@
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" /></a>
 <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" /></a> 
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" /></a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/327f158795aa0c361b2fd793927ede8798fd3c52fe480014e844ee2e8bf7dfbd/68747470733a2f2f66697265626173652e676f6f676c652e636f6d2f646f776e6c6f6164732f6272616e642d67756964656c696e65732f5356472f6c6f676f2d6c6f676f6d61726b2e737667" width="45" height="45" alt="Firebase" /></a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" /></a> 
+<a href="https://gradle.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gradle" width="45" height="45" alt="Docker" /></a> 
+
 
 
 
