@@ -57,9 +57,9 @@
 ### 🛠️ 𝙏𝙤𝙤𝙡𝙨
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" /></a>
 <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" /></a> 
-<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" /></a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" /></a> 
 <a href="https://gradle.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gradle" width="45" height="45" alt="Docker" /></a> 
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" /></a> 
 
 
 
