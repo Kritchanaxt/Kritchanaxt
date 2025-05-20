@@ -51,6 +51,8 @@
 ### 🗄️ 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚𝙨
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" /></a> 
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" /></a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="Postgres" /></a> 
+
 
 ### 🛠️ 𝙏𝙤𝙤𝙡𝙨
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" /></a>
