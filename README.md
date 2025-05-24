@@ -70,9 +70,10 @@
 
 <p align="center">
   <a href="https://github.com/Kritchanaxt">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritchanaxt&layout=compact&langs_count=10&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=181824" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritchanaxt&layout=compact&langs_count=10&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=181824&cache_seconds=86400" alt="Top Langs"/>
   </a>
 </p>
+
 
 
 <h1></h1>
