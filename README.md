@@ -34,7 +34,7 @@
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" /></a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" width="47" height="47" alt="PHP" /></a> 
 
-### ⚙️ 𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨
+### ⚙️ 𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨 & library
 <a href="https://developer.apple.com/swiftui/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="50" height="50" alt="SwiftUI" /></a> 
 <a href="https://developer.apple.com/documentation/xctest/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/swift-testing/swift-testing-96x96_2x.png" width="50" height="50" alt="XCTest" /></a> 
 <a href="https://developer.apple.com/xcode/swiftdata/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png" width="50" height="50" alt="SwiftData"/></a>
