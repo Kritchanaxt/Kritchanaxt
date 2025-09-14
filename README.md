@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Kritchanat !!</h1> 
 
-<p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWs5N3o4MDRtOWNiZzczMzg4Ym43eHFiN3NrY3NhcDh3M3N4NjAyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MrL5W02AMLB1CkRLjd/giphy.gif" width="400" height="230" alt="gif"/></p>
+<p align="center"><img src="https://media1.tenor.com/m/Dmp05slTR1EAAAAd/lebron-dunk-lebron-james.gif" width="400" height="450" alt="gif"/></p>
 
 
 <p align="center">   𝘾𝙤𝙪𝙡𝙙𝙣'𝙩 𝙗𝙚 𝘽𝙚𝙩𝙩𝙚𝙧.  </p>
