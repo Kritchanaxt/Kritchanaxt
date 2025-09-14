@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Kritchanat !!</h1> 
+<h1 align="center">Hello, I'm Kritchanat Malaikwan !!</h1> 
 
 <p align="center"><img src="https://media1.tenor.com/m/Dmp05slTR1EAAAAd/lebron-dunk-lebron-james.gif" width="400" height="450" alt="gif"/></p>
 
