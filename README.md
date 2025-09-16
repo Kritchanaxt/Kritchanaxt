@@ -51,9 +51,6 @@
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJS" /></a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=expressjs" width="45" height="45" alt="ExpressJS" /></a>
 <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" /></a> 
-<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="40" height="55" alt="Gin" /></a> 
-
-
 
 
 ### 🗄️ 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚𝙨
