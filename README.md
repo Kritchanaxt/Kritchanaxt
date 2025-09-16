@@ -45,10 +45,12 @@
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" /></a> 
 <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /></a> 
 <a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" /></a> 
+<a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Vue" /></a> 
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="tailwind" /></a> 
-<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" /></a> 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJS" /></a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=expressjs" width="45" height="45" alt="ExpressJS" /></a>
+<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" /></a> 
+
 
 
 ### 🗄️ 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚𝙨
