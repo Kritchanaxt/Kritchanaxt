@@ -43,14 +43,11 @@
 <a href="https://developer.apple.com/documentation/coredata" target="_blank" rel="noreferrer"><img src="https://velog.velcdn.com/images/qnm83/post/92952fa1-24b5-4c85-b4a1-bd5d0ef015db/image.png" width="45" height="50" alt="Core Data" /></a> 
 <a href="https://developer.apple.com/documentation/authenticationservices/asauthorizationproviderextensionauthorizationrequest/realm" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/7575099?s=280&v=4" width="50" height="50" alt="Realm" /></a> 
 <a href="https://swiftpackageindex.com/Alamofire/Alamofire" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/7774181?s=280&v=4" width="50" height="50" alt="Alamofire" /></a> 
-
-####
+<br>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" /></a> 
 <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /></a> 
 <a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" /></a> 
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="tailwind" /></a> 
-
-####
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJS" /></a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=expressjs" width="45" height="45" alt="ExpressJS" /></a>
 <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" /></a> 
@@ -74,8 +71,6 @@
 
 
 
-
-
 🌌 My GitHub Stats 
 ----------------------------
 
@@ -86,8 +81,5 @@
 </p>
 
 
-
-<h1></h1>
-<p align="center"><a>𝙏𝙝𝙖𝙣𝙠 𝙮𝙤𝙪 𝙛𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜 𝙢𝙮 𝙜𝙞𝙩𝙝𝙪𝙗. 💜 <a></p>
 
 
