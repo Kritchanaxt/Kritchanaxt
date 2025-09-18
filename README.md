@@ -34,7 +34,7 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" /></a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" width="47" height="47" alt="PHP" /></a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=go" width="47" height="47" alt="Golang" /></a> 
+<a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=go" width="47" height="47" alt="Golang" /></a> 
 
 ### ⚙️ 𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨 & library
 <a href="https://developer.apple.com/swiftui/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="50" height="50" alt="SwiftUI" /></a> 
