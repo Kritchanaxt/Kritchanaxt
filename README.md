@@ -34,7 +34,7 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" /></a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" width="47" height="47" alt="PHP" /></a> 
-<a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=go" width="47" height="47" alt="Golang" /></a> 
+<a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=g" width="47" height="47" alt="Golang" /></a> 
 
 ### ⚙️ 𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨 & library
 <a href="https://developer.apple.com/swiftui/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="50" height="50" alt="SwiftUI" /></a> 
@@ -51,6 +51,8 @@
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJS" /></a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=expressjs" width="45" height="45" alt="ExpressJS" /></a>
 <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" /></a> 
+<a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="FastAPI" /></a> 
+
 
 
 ### 🗄️ 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚𝙨
@@ -65,6 +67,10 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" /></a> 
 <a href="https://gradle.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gradle" width="45" height="45" alt="Docker" /></a> 
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" /></a> 
+<a href="https://supabase.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" /></a> 
+
+
+
 
 
 
