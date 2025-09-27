@@ -93,9 +93,9 @@
 ---
 
 ### 🤖 AI / Computer Vision / LLM
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Vision](https://img.shields.io/badge/Vision-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/vision)
 [![VisionKit](https://img.shields.io/badge/VisionKit-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/visionkit)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/ml-kit)
 [![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
 
