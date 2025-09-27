@@ -92,7 +92,7 @@
 
 ---
 
-### 🤖 AI
+### 🤖 AI / Computer Vision / LLM
 [![Vision](https://img.shields.io/badge/Vision-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/vision)
 [![VisionKit](https://img.shields.io/badge/VisionKit-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/visionkit)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
