@@ -20,17 +20,16 @@
 - 🏀 **Hobbies:** Love playing basketball in my free time
 
  
-
 🩻 My Skills
 ----------------------------
 
 ### 🔩 Programming Languages
 [![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
@@ -44,9 +43,8 @@
 [![Alamofire](https://img.shields.io/badge/Alamofire-FF6F61?style=for-the-badge&logo=swift&logoColor=white)](https://alamofire.github.io/Alamofire/)
 [![SwiftData](https://img.shields.io/badge/SwiftData-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftdata/)
 [![CoreData](https://img.shields.io/badge/CoreData-6E6E6E?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/coredata)
-[![Realm](https://img.shields.io/badge/Realm-F05138?style=for-the-badge&logo=realm&logoColor=white)](https://realm.io/)
+[![Realm](https://img.shields.io/badge/Realm-3C5A99?style=for-the-badge&logo=realm&logoColor=white)](https://realm.io/)
 [![XCTest](https://img.shields.io/badge/XCTest-6E6E6E?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/xctest/)
-
 
 - **Native Android**  
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/studio)
@@ -77,7 +75,7 @@
 ### 🗄️ Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 ---
 
@@ -94,12 +92,13 @@
 
 ---
 
-### 🤖 AI 
+### 🤖 AI
 [![Vision](https://img.shields.io/badge/Vision-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/vision)
-[![Vision Kit](https://img.shields.io/badge/Vision_Kit-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/visionkit)
+[![VisionKit](https://img.shields.io/badge/VisionKit-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/visionkit)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/ml-kit)
 [![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+
 
 ---
 
