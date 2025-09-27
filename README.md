@@ -39,12 +39,12 @@
 ### 📱 Mobile
 
 - **Native iOS**  
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swiftui/)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-02569B?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swiftui/)
 [![Alamofire](https://img.shields.io/badge/Alamofire-FF6F61?style=for-the-badge&logo=swift&logoColor=white)](https://alamofire.github.io/Alamofire/)
-[![SwiftData](https://img.shields.io/badge/SwiftData-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftdata/)
-[![CoreData](https://img.shields.io/badge/CoreData-6E6E6E?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/coredata)
-[![Realm](https://img.shields.io/badge/Realm-3C5A99?style=for-the-badge&logo=realm&logoColor=white)](https://realm.io/)
-[![XCTest](https://img.shields.io/badge/XCTest-6E6E6E?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/xctest/)
+[![SwiftData](https://img.shields.io/badge/SwiftData-6E6E6E?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftdata/)
+[![CoreData](https://img.shields.io/badge/CoreData-0175C2?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/documentation/coredata)
+[![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAiIGhlaWdodD0iMTIwIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xMiAxYy01LjUyIDAtMTAgNC40OC0xMCAxMCAwIDUuNTIgNC40OCAxMCAxMCAxMCA1LjUyIDAgMTAtNC40OCAxMC0xMCAwLTUuNTItNC40OC0xMC0xMC0xMHptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LTMuNTkgOC04IDh6Ii8+PC9zdmc+)](https://realm.io/)
+[![XCTest](https://img.shields.io/badge/XCTest-47A248?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/documentation/xctest/)
 
 - **Native Android**  
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/studio)
