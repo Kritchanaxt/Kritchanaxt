@@ -11,7 +11,7 @@
 🌠 About Me
 ----------------------------
 
-- 🧬 **Full Stack Engineer (Web, Mobile, AI)**  
+- 🧬 **Full Stack Deverloper (Web, Mobile, AI)**  
 
 - 🎧 **Currently exploring deeper in "Software Engineering"**  
 
