@@ -30,7 +30,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
 
 ---
 
@@ -109,7 +108,7 @@
 <p align="center">
   <a href="https://github.com/Kritchanaxt">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritchanaxt&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=100&hide=php,html,typescript" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritchanaxt&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=100&hide=php,html" 
       alt="Top Languages" 
       style="border-radius:15px; border:2px solid #58a6ff; padding:10px;"
     />
