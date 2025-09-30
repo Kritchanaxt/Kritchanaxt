@@ -109,7 +109,7 @@
 <p align="center">
   <a href="https://github.com/Kritchanaxt">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritchanaxt&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritchanaxt&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800&hide-php" 
       alt="Top Languages" 
       style="border-radius:15px; border:2px solid #58a6ff; padding:10px;"
     />
