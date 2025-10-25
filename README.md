@@ -7,9 +7,9 @@
 🌠 About Me
 ----------------------------
 
-- 🧬 **Full Stack Deverloper (Web, Mobile, AI, DevOps)**  
-- 🎧 **Currently exploring deeper in "Software Engineering"**  
-- 🏀 **Hobbies:** Love playing basketball in my free time
+- 💻 **Full Stack Web & Mobile Engineer | AI & DevOps**  
+- 🎧 **Passionate about exploring deeper into "Software Engineering"**  
+- 🏀 **Hobbies:** Playing basketball in my free time
 
 🩻 My Skills
 ----------------------------
