@@ -2,22 +2,15 @@
 
 <p align="center"><img src="https://media1.tenor.com/m/Dmp05slTR1EAAAAd/lebron-dunk-lebron-james.gif" width="300" height="350" alt="gif"/></p>
 
-
-
 <p align="center">   𝘾𝙤𝙪𝙡𝙙𝙣'𝙩 𝙗𝙚 𝘽𝙚𝙩𝙩𝙚𝙧.  </p>
-
-
 
 🌠 About Me
 ----------------------------
 
 - 🧬 **Full Stack Deverloper (Web, Mobile, AI)**  
-
 - 🎧 **Currently exploring deeper in "Software Engineering"**  
-
 - 🏀 **Hobbies:** Love playing basketball in my free time
 
- 
 🩻 My Skills
 ----------------------------
 
@@ -55,7 +48,6 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 
-
 ---
 
 ### 🗄️ Databases
@@ -76,7 +68,8 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io)
+[![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
 
 ---
 
@@ -87,10 +80,7 @@
 [![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/ml-kit)
 [![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
 
-
 ---
-
-
 
 🌌 My GitHub Stats 
 ----------------------------
@@ -103,7 +93,3 @@
     />
   </a>
 </p>
-
-
-
-
