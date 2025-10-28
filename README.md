@@ -7,9 +7,9 @@
 🌠 About Me
 ----------------------------
 
-- 💻 **Full Stack Web & Mobile Engineer | AI**  
+- 💻 **Full Stack Web & Mobile Engineer | AI & Computer Vision Enthusiast**  
 - 🎧 **Passionate about exploring deeper into "Software Engineering"**  
-- 🏀 **Hobbies:** Playing basketball in my free time
+- 🏀 **In my free time, I love playing basketball and learning new tech stacks.** 
 
 🩻 My Skills
 ----------------------------
@@ -75,9 +75,9 @@
 
 ### 🤖 AI / Computer Vision / LLM
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Vision](https://img.shields.io/badge/Vision-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/vision)
-[![VisionKit](https://img.shields.io/badge/VisionKit-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/visionkit)
+[![Vision (Apple)](https://img.shields.io/badge/Vision_(Apple)-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/vision)
 [![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/ml-kit)
+[![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-198964?style=for-the-badge&logo=tesseract&logoColor=white)](https://github.com/tesseract-ocr/tesseract)
 [![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
 
 ---
