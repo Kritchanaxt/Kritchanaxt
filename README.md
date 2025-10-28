@@ -7,9 +7,9 @@
 🌠 About Me
 ----------------------------
 
-- 💻 **Full Stack Web & Mobile Engineer | AI & Computer Vision Enthusiast**  
-- 🎧 **Passionate about exploring deeper into "Software Engineering"**  
-- 🏀 **In my free time, I love playing basketball and learning new tech stacks.** 
+- 💻 **Software Developer / AI Developer**  
+- 🎧 Passionate about mastering Software Engineering
+- 🏀 In my free time, I enjoy playing basketball and exploring new tech stacks
 
 🩻 My Skills
 ----------------------------
