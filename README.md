@@ -7,7 +7,7 @@
 🌠 About Me
 ----------------------------
 
-- 💻 **Full Stack Web & Mobile Engineer | AI **  
+- 💻 **Full Stack Web & Mobile Engineer | AI**  
 - 🎧 **Passionate about exploring deeper into "Software Engineering"**  
 - 🏀 **Hobbies:** Playing basketball in my free time
 
