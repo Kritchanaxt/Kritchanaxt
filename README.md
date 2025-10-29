@@ -7,7 +7,7 @@
 🌠 About Me
 ----------------------------
 
-- 💻 **Software Developer / AI Developer**  
+- 💻 **Software Developer**  
 - 🎧 Passionate about mastering Software Engineering
 - 🏀 In my free time, I enjoy playing basketball and exploring new tech stacks
 
