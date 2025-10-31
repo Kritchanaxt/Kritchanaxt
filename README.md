@@ -7,7 +7,7 @@
 🌠 About Me
 ----------------------------
 
-- 💻 **Software Developer**  
+- 💻 **AI Software Developer(OCR, Computer Vision)**  
 - 🎧 Passionate about mastering Software Engineering
 - 🏀 In my free time, I enjoy playing basketball and exploring new tech stacks
 
