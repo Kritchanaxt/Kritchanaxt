@@ -9,7 +9,7 @@
 
 - 💻 **Software Developer**  
 - 🎧 Passionate about mastering Software Engineering
-- 🏀 In my free time, I enjoy playing basketball and exploring new tech stacks
+- 🦾 Strong background in Mobile Native Development, Backend Systems, AI, and OCR
 
 🩻 Tech Stack
 ----------------------------
