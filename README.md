@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Kritchanat Malaikwan !!</h1> 
 
-<p align="center"><img src="https://images.steamusercontent.com/ugc/90469323227753048/104E3D6348227B2BD537ED85441586961F91C2DC/?imw=1024&imh=813&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="300" height="350" alt="gif"/></p>
+<p align="center"><img src="https://i.pinimg.com/originals/a4/6e/c1/a46ec1c97af0f787074e478e3f0992eb.gif" width="300" height="350" alt="gif"/></p>
 
 <p align="center">   𝘾𝙤𝙪𝙡𝙙𝙣'𝙩 𝙗𝙚 𝘽𝙚𝙩𝙩𝙚𝙧.  </p>
 
