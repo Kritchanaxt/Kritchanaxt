@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Kritchanat Malaikwan !!</h1> 
 
-<p align="center"><img src="https://github.com/Kritchanaxt/Kritchanaxt/blob/main/a46ec1c97af0f787074e478e3f0992eb.gif" width="300" height="350" alt="gif"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Kritchanaxt/Kritchanaxt/main/a46ec1c97af0f787074e478e3f0992eb.gif" width="400" height="450" alt="gif"/></p>
 
 <p align="center">   𝘾𝙤𝙪𝙡𝙙𝙣'𝙩 𝙗𝙚 𝘽𝙚𝙩𝙩𝙚𝙧.  </p>
 
