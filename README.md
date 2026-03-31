@@ -9,7 +9,7 @@
 
 - 💻 **Software Developer**  
 - 🎧 Passionate about mastering Software Engineering
-- 🦾 Strong background in Mobile Native Development, Backend Systems, AI, and OCR
+- 🦾 Strong background in Mobile Native, Backend, AI, and OCR
 
 🩻 Tech Stack
 ----------------------------
