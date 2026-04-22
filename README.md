@@ -7,7 +7,7 @@
 🌠 About Me
 ----------------------------
 - 🎧 Passionate about mastering Software Engineering
-- 🦾 Strong background in Mobile Native, Backend, and AI
+- 🦾 Strong background in Mobile Native, Backend, Devops and AI
 
 🩻 Tech Stack
 ----------------------------
