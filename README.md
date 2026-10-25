@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Kritchanat Malaikwan !!</h1> 
 
-<p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdlNm9yZTVyend1MzVuemg4MmVxMjJ3cWUycTh6OHkwMm5yMzhwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZGZTbIvCETq7u/200.webp" width="350" height="200" alt="gif"/></p>
+<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25xanhlMnR2ajE1czkycmZscnR0aGMzMWV4eGc1ZmprNnNxbWxsNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT0xeyDAguK44x0nkY/200.webp" width="350" height="200" alt="gif"/></p>
 
 <p align="center">   𝘾𝙤𝙪𝙡𝙙𝙣'𝙩 𝙗𝙚 𝘽𝙚𝙩𝙩𝙚𝙧.  </p>
 
