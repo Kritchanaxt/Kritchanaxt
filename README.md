@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Kritchanat Malaikwan !!</h1> 
 
-<p align="center"><img src="https://raw.githubusercontent.com/Kritchanaxt/Kritchanaxt/main/a46ec1c97af0f787074e478e3f0992eb.gif" width="350" height="200" alt="gif"/></p>
+<p align="center"><img src="https://media1.tenor.com/m/aDzL8VKG3FgAAAAd/lebron-dunk-lebron-james.gif" width="350" height="200" alt="gif"/></p>
 
 <p align="center">   𝘾𝙤𝙪𝙡𝙙𝙣'𝙩 𝙗𝙚 𝘽𝙚𝙩𝙩𝙚𝙧.  </p>
 
