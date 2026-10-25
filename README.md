@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Kritchanat Malaikwan !!</h1> 
 
-<p align="center"><img src="https://media1.tenor.com/m/aDzL8VKG3FgAAAAd/lebron-dunk-lebron-james.gif" width="350" height="200" alt="gif"/></p>
+<p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdlNm9yZTVyend1MzVuemg4MmVxMjJ3cWUycTh6OHkwMm5yMzhwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZGZTbIvCETq7u/200.webp" width="350" height="200" alt="gif"/></p>
 
 <p align="center">   𝘾𝙤𝙪𝙡𝙙𝙣'𝙩 𝙗𝙚 𝘽𝙚𝙩𝙩𝙚𝙧.  </p>
 
